@@ -150,7 +150,6 @@ dependencies:
   - tk=8.6.8=ha441bb4_0
   - tornado=5.1=py36h1de35cc_0
   - traitlets=4.3.2=py36h65bd3ce_0
-  - twisted=17.5.0=py36_0
   - urllib3=1.23=py36_0
   - wcwidth=0.1.7=py36h8c6ec74_0
   - webencodings=0.5.1=py36_1
