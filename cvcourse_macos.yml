@@ -4,6 +4,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.6.6=hc167b69_0
   - bzip2=1.0.6=1
   - cairo=1.14.12=he6fea26_5
   - fontconfig=2.13.0=hce039c3_6
@@ -52,7 +53,7 @@ dependencies:
   - grpcio=1.12.1=py36hd9629dc_0
   - h5py=2.8.0=py36h60fea5d_3
   - hdf5=1.8.20=hfa1e0ec_1
-  - html5lib=1.0.1=py36_0
+  # - html5lib=1.0.1=py36_0
   - hyperlink=18.0.0=py36_0
   - idna=2.7=py36_0
   - incremental=17.5.0=py36_0
@@ -122,7 +123,6 @@ dependencies:
   - pyparsing=2.2.0=py36_1
   - pyqt=5.6.0=py36h655552a_6
   - pysocks=1.6.8=py36_0
-  - python=3.6.6=hc167b69_0
   - python-dateutil=2.7.3=py36_0
   - pytz=2018.5=py36_0
   - pyyaml=3.13=py36h1de35cc_0
@@ -164,4 +164,3 @@ dependencies:
   - zope.interface=4.5.0=py36h1de35cc_0
   - tbb=4.3_20141023=0
 prefix: /anaconda3/envs/cvcourse
-
